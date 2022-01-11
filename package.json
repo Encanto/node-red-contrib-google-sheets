@@ -16,6 +16,6 @@
         }
     },
     "dependencies": {
-        "googleapis": "^46.0.0"
+        "googleapis": "^49.0.0"
     }
 }
